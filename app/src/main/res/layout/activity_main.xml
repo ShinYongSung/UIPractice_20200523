@@ -62,7 +62,7 @@
         android:hint="친구의 닉넴임을 찾아주세요"
         android:singleLine="true"
         android:imeOptions="actionSearch"/>
-
+    and
 
 
 </LinearLayout>
