@@ -51,6 +51,17 @@
         android:hint="숫자 여섯자리로 비밀번호 입력"
         android:inputType="numberPassword"/>
 
+<TextView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="한줄자기소개"/>
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="친구의 닉넴임을 찾아주세요"
+        android:singleLine="true"
+        android:imeOptions="actionSearch"/>
 
 
 
